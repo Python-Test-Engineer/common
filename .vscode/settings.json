@@ -1,4 +1,5 @@
 {
+   "workbench.colorTheme": "Monokai Crete",
    "editor.tokenColorCustomizations": {
       "comments": "#d99139"
    },
@@ -144,7 +145,6 @@
    "python.analysis.typeCheckingMode": "strict",
    "python.formatting.provider": "none",
    "editor.autoIndent": "keep",
-   "workbench.colorTheme": "Monokai Crete",
    "terminal.integrated.defaultProfile.windows": "PowerShell",
    "animations.Install-Method": "Apc Customize UI++",
    "apc.imports": [
